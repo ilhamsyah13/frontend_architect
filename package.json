@@ -1,9 +1,9 @@
 {
-  "homepage": "https://ilhamsyah13.github.io/frontend_architect",
   "name": "architect",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ilhamsyah13.github.io/frontend_architect/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
