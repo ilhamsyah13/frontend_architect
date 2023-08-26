@@ -1,0 +1,198 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "title": "Minimal Bedroom",
+      "img": "https://images.pexels.com/photos/1454806/pexels-photo-1454806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "residence"
+    },
+    {
+      "id": 2,
+      "title": "Modern Kitchen",
+      "img": "https://images.pexels.com/photos/276554/pexels-photo-276554.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "residence"
+    },
+    {
+      "id": 3,
+      "title": "Contemporary Dining",
+      "img": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "residence"
+    },
+    {
+      "id": 4,
+      "title": "Modern Bathroom",
+      "img": "https://images.pexels.com/photos/1457847/pexels-photo-1457847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "residence"
+    },
+    {
+      "id": 5,
+      "title": "Modern Living",
+      "img": "https://images.pexels.com/photos/5570224/pexels-photo-5570224.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "residence"
+    },
+    {
+      "id": 6,
+      "title": "Modern Kitchen",
+      "img": "https://images.pexels.com/photos/2089698/pexels-photo-2089698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "residence"
+    },
+    {
+      "id": 7,
+      "title": "Minimal Kitchen",
+      "img": "https://images.pexels.com/photos/6508354/pexels-photo-6508354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "residence"
+    },
+    {
+      "id": 8,
+      "title": "Modern bedroom",
+      "img": "https://images.pexels.com/photos/1034584/pexels-photo-1034584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "residence"
+    },
+    {
+      "id": 9,
+      "title": "Modern Store",
+      "img": "https://images.pexels.com/photos/4940756/pexels-photo-4940756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "commercial"
+    },
+    {
+      "id": 10,
+      "title": "Minimal store",
+      "img": "https://images.pexels.com/photos/8386654/pexels-photo-8386654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "commercial"
+    },
+    {
+      "id": 11,
+      "title": "Modern Store",
+      "img": "https://images.pexels.com/photos/4947386/pexels-photo-4947386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "commercial"
+    },
+    {
+      "id": 12,
+      "title": "Modern Office",
+      "img": "https://images.pexels.com/photos/2451566/pexels-photo-2451566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "industrial"
+    },
+    {
+      "id": 13,
+      "title": "Minimal Office",
+      "img": "https://images.pexels.com/photos/7750123/pexels-photo-7750123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "industrial"
+    },
+    {
+      "id": 14,
+      "title": "Modern office store",
+      "img": "https://images.pexels.com/photos/2451616/pexels-photo-2451616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "industrial"
+    },
+    {
+      "id": 15,
+      "title": "Minimal office",
+      "img": "https://images.pexels.com/photos/7534217/pexels-photo-7534217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "industrial"
+    },
+    {
+      "id": 16,
+      "title": "Decoration",
+      "img": "https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "decor"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Sofas",
+      "img": "https://images.pexels.com/photos/4846097/pexels-photo-4846097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "title": "Sectional Sofas",
+      "img": "https://images.pexels.com/photos/6588592/pexels-photo-6588592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "title": "Study Table",
+      "img": "https://images.pexels.com/photos/6177607/pexels-photo-6177607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "title": "Tv & Media Units",
+      "img": "https://images.pexels.com/photos/10827351/pexels-photo-10827351.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "title": "Chairs",
+      "img": "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "title": "Sofa Chair",
+      "img": "https://images.pexels.com/photos/7394471/pexels-photo-7394471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 7,
+      "title": "Dining Set",
+      "img": "https://images.pexels.com/photos/3773579/pexels-photo-3773579.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 8,
+      "title": "Office Furniture",
+      "img": "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "best": [
+    {
+      "id": 1,
+      "title": "Beds",
+      "option": "1000+ Options",
+      "img": "https://images.pexels.com/photos/7019017/pexels-photo-7019017.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "title": "Shoe Racks",
+      "option": "120+ Options",
+      "img": "https://images.pexels.com/photos/8633771/pexels-photo-8633771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "title": "Writing Tables",
+      "option": "140+ Options",
+      "img": "https://images.pexels.com/photos/5797903/pexels-photo-5797903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "title": "Racks",
+      "option": "100+ Options",
+      "img": "https://cdn.pixabay.com/photo/2017/07/31/21/34/living-wall-2561274_640.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cabinets and Slideboards",
+      "option": "100+ Options",
+      "img": "https://images.pexels.com/photos/373541/pexels-photo-373541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "title": "Book Shelves",
+      "option": "100+ Options",
+      "img": "https://images.pexels.com/photos/1125130/pexels-photo-1125130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "carousel": [
+    {
+      "id": 1,
+      "img": "images/pexels-pixabay-276746.jpg"
+    },
+    {
+      "id": 2,
+      "img": "images/pexels-pixabay-276724.jpg"
+    },
+    {
+      "id": 3,
+      "img": "images/pexels-charlotte-may-5825527.jpg"
+    },
+    {
+      "id": 4,
+      "img": "images/pexels-jean-van-der-meulen-1457842.jpg"
+    }
+  ]
+}
