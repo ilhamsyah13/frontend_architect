@@ -29,22 +29,22 @@ function Navbar() {
           </button>
           <ul className="hidden md:flex gap-6 ">
             <li className="hover:text-brown border-b-2 border-transparent hover:border-brown hover:font-bold">
-              <Link to="/">Home</Link>
+              <Link to="/frontend_architect">Home</Link>
             </li>
             <li className="hover:text-brown border-b-2 border-transparent hover:border-brown hover:font-bold">
-              <Link to="/services">Services</Link>
+              <Link to="/frontend_architect/services">Services</Link>
             </li>
             <li className="hover:text-brown border-b-2 border-transparent hover:border-brown hover:font-bold">
-              <Link to="/portfolio">Portfolio</Link>
+              <Link to="/frontend_architect/portfolio">Portfolio</Link>
             </li>
             <li className="hover:text-brown border-b-2 border-transparent hover:border-brown hover:font-bold">
-              <Link to="/blog">Blog</Link>
+              <Link to="/frontend_architect/blog">Blog</Link>
             </li>
             <li className="hover:text-brown border-b-2 border-transparent hover:border-brown hover:font-bold">
-              <Link to="/shop">Shop</Link>
+              <Link to="/frontend_architect/shop">Shop</Link>
             </li>
             <li className="hover:text-brown border-b-2 border-transparent hover:border-brown hover:font-bold">
-              <Link to="/contact">Contact</Link>
+              <Link to="/frontend_architect/contact">Contact</Link>
             </li>
           </ul>
         </div>
@@ -62,26 +62,26 @@ function Navbar() {
       {nav && (
         <div className="relative top-20 block md:hidden">
           <ul className=" bg-ui-white p-8">
-            <Link to="/">
+            <Link to="/frontend_architect">
               <li className="p-2 hover:bg-brown hover:text-ui-white">Home</li>
             </Link>
-            <Link to="/services">
+            <Link to="/frontend_architect/services">
               <li className="p-2 hover:bg-brown hover:text-ui-white">
                 Services
               </li>
             </Link>
-            <Link to="/portfolio">
+            <Link to="/frontend_architect/portfolio">
               <li className="p-2 hover:bg-brown hover:text-ui-white">
                 Portfolio
               </li>
             </Link>
-            <Link to="/blog">
+            <Link to="/frontend_architect/blog">
               <li className="p-2 hover:bg-brown hover:text-ui-white">Blog</li>
             </Link>
             <Link to="/shop">
               <li className="p-2 hover:bg-brown hover:text-ui-white">Shop</li>
             </Link>
-            <Link to="/contact">
+            <Link to="/frontend_architect/contact">
               <li className="p-2 hover:bg-brown hover:text-ui-white">
                 Contact
               </li>
