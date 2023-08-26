@@ -180,19 +180,19 @@
   "carousel": [
     {
       "id": 1,
-      "img": "ilhamsyah13/images/pexels-pixabay-276746.jpg"
+      "img": "frontend_architect/images/pexels-pixabay-276746.jpg"
     },
     {
       "id": 2,
-      "img": "ilhamsyah13/images/pexels-pixabay-276724.jpg"
+      "img": "frontend_architect/images/pexels-pixabay-276724.jpg"
     },
     {
       "id": 3,
-      "img": "ilhamsyah13/images/pexels-charlotte-may-5825527.jpg"
+      "img": "frontend_architect/images/pexels-charlotte-may-5825527.jpg"
     },
     {
       "id": 4,
-      "img": "ilhamsyah13/images/pexels-jean-van-der-meulen-1457842.jpg"
+      "img": "frontend_architect/images/pexels-jean-van-der-meulen-1457842.jpg"
     }
   ]
 }
