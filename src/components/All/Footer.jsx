@@ -27,17 +27,17 @@ function Footer() {
             <p className="font-medium mb-7">Pages</p>
             <ul className="font-light">
               <li className="mb-3">
-                <Link to="/">Home</Link>
+                <Link to="/frontend_architect">Home</Link>
               </li>
               <li className="mb-3">
-                <Link to="/portfolio">Portfolio</Link>
+                <Link to="/frontend_architect/portfolio">Portfolio</Link>
               </li>
               <li className="mb-3">Our Team</li>
               <li className="mb-3">
-                <Link to="/contact">Contact</Link>
+                <Link to="/frontend_architect/contact">Contact</Link>
               </li>
               <li className="mb-3">
-                <Link to="/services">Services</Link>
+                <Link to="/frontend_architect/services">Services</Link>
               </li>
             </ul>
           </div>
